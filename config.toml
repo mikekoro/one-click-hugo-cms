@@ -1,2 +1,5 @@
 languageCode = "en-us"
-title = "My New Netlify Victor Hugo Site"
+title = "NU"
+backend:
+  name: github
+  repo: mikekoro/one-click-hugo-cms

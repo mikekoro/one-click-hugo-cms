@@ -1,5 +1,2 @@
 languageCode = "en-us"
 title = "NU"
-backend:
-  name: github
-  repo: mikekoro/one-click-hugo-cms
